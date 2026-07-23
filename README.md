@@ -17,7 +17,7 @@ Personal portfolio website showcasing my projects and skills.
 
 To run this project locally:
 
-git clone https://github.com/mhdakiv/personal-portfolio-website.git
+git clone https://github.com/mhdakiv/Personal-Portfolio-Website.git
 
 cd personal-portfolio-website
 
