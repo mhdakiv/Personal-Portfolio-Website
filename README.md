@@ -19,7 +19,7 @@ To run this project locally:
 
 git clone https://github.com/mhdakiv/Personal-Portfolio-Website.git
 
-cd personal-portfolio-website
+cd Personal-Portfolio-Website
 
 Then open index.html in your browser
 
